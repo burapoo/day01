@@ -1,2 +1,2 @@
 #!/bin/sh
-ldapsearch -LLL "(uid=event)" dn
+ldapsearch -LLL "(uid=event)" 
